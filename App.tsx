@@ -44,3 +44,5 @@ export default function App() {
     </AuthProvider>
   );
 }
+
+// Test comment to trigger CodeBoarding GitHub Action
